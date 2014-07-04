@@ -1,0 +1,11 @@
+.searchInput{
+	border: none;
+	padding: 0px;
+	margin: 0px;
+	height: auto;
+	width: 100%;
+	position: absolute;
+	z-index: 6;
+	left: 0px;
+	outline: none;
+}
